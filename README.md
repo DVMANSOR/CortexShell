@@ -25,9 +25,11 @@ CortexShell is a Windows AI assistant powered by OpenAI GPT-4.1 that can chat, a
    ```bash
    git clone https://github.com/yourusername/windows-ai-assistant.git
    cd windows-ai-assistant
+   ```
 2. **Install dependencies**
    ```bash
    pip install openai
+   ```
 3. **Prepare assets folder**
    Create assets/token.txt with your OpenAI-compatible API key.
    Edit assets/command.txt and assets/persona.txt to customize AI behavior.
@@ -49,3 +51,29 @@ This program **executes arbitrary PowerShell commands**.
 Malicious prompts could damage your system.
 Use **only** in secure, controlled environments.
 The author assumes **no responsibility** for misuse or damage.
+
+## 📜 License (MIT)
+MIT License
+
+Copyright (c) 2025 Mansour
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+---
+
+🔥 **Pro Tip:** Star ⭐ this repo if you find it useful — it helps more people discover it!
