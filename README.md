@@ -58,6 +58,20 @@ This program **executes arbitrary PowerShell commands**.
 Malicious prompts could damage your system.
 Use **only** in secure, controlled environments.
 The author assumes **no responsibility** for misuse or damage.
+
+## 🤝 Contributing & Support
+
+Got an idea to improve **CortexShell**? Found a bug? Need help using it?  
+Here’s how you can contribute:
+
+- **Open an Issue** — Report bugs or request features.
+- **Submit a Pull Request** — Add improvements or fix problems.
+- **Suggest Ideas** — Share your thoughts in the Discussions tab.
+- **Collaborate** — I’m open to working together on expanding this project.
+
+Your feedback and ideas are always welcome! 🚀
+
+
 ---
 ## 📜 License (MIT)
 MIT License
