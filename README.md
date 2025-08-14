@@ -31,8 +31,14 @@ CortexShell is a Windows AI assistant powered by OpenAI GPT-4.1 that can chat, a
    pip install openai
    ```
 3. **Prepare assets folder**
-   Create assets/token.txt with your OpenAI-compatible API key.
+   Create assets/token.txt with your Github-compatible Token.
    Edit assets/command.txt and assets/persona.txt to customize AI behavior.
+---
+## 📝 Notes
+This project uses the GitHub Marketplace for AI.
+The assets/token.txt file should contain your GitHub token to authenticate requests.
+Treat your token as sensitive — never share it publicly.
+---
 ## 🚀 Usage
 
 Run the script:
@@ -46,12 +52,13 @@ Sure I will list the running processes for you
 @&
 Get-Process
 ```
+---
 ## ⚠ Disclaimer
 This program **executes arbitrary PowerShell commands**.
 Malicious prompts could damage your system.
 Use **only** in secure, controlled environments.
 The author assumes **no responsibility** for misuse or damage.
-
+---
 ## 📜 License (MIT)
 MIT License
 
