@@ -49,8 +49,7 @@ Then type your request:
 ```bash
 > list all running processes
 Sure I will list the running processes for you
-@&
-Get-Process
+(list of running processes)
 ```
 ---
 ## ⚠ Disclaimer
